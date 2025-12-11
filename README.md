@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Header and Title -->
-  <img src="[raw.githubusercontent.com](https://github.com/Fazalrahman1000/Fazalrahman1000/blob/main/myImage.jpg)" width="150px" alt="Profile Logo" />
+  <img src="https://github.com/Fazalrahman1000/Fazalrahman1000/blob/main/myImage.jpg?raw=true" width="150px" alt="Profile Logo" />
   <h1>Hey there! I'm Fazal Rahman Waqar 👋</h1>
   <h3>Full Stack Developer | Machine Learning Enthusiast</h3>
   <p>Building innovative solutions across the stack and into the realm of AI.</p>
