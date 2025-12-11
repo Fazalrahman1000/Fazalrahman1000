@@ -1,7 +1,4 @@
-<!-- 🌟 Professional Banner Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Developer Banner"/>
-</p>
+
 
 <div align="center">
   <h1>Hey there! I'm <strong>Fazal Rahman Waqar</strong> 👋</h1>
