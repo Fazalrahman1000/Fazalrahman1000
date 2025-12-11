@@ -15,9 +15,9 @@ I am a passionate **Full Stack Developer** with a strong foundation in building 
 I hold a Bachelor's degree in Computer Science from **Nangarhar University (2023)**. I am a continuous learner, dedicated to staying current with emerging technologies and contributing to impactful projects.
 
 *   🎓 **Education:** Bachelor of Computer Science, Nangarhar University (2023).
-*   💡 **Focus Areas:** JavaScript Ecosystem (React, Node.js), Python (Django, ML libraries), Cloud Services (AWS, Docker).
+*   💡 **Focus Areas:** JavaScript Ecosystem (React, Next.js), Python (Django, ML libraries), Cloud Services (AWS, Docker).
 *   🤝 **Collaboration:** Always interested in collaborating on challenging open-source projects.
-*   📧 **Contact:** Feel free to reach out via [Email](mailto:youremail@example.com) or [LinkedIn](www.linkedin.com).
+*   📧 **Contact:** Feel free to reach out via [Email](mailto:fazalrahmanwaqar3@gmail.com) or [LinkedIn](linkedin.com/in/fazalrahman-waqar-391064266).
 
 ---
 
@@ -50,9 +50,9 @@ I'm an active contributor and always tracking my progress.
 
 Let's connect and build something great!
 
-*   [**LinkedIn**](www.linkedin.com) - Connect professionally and see my experience.
-*   [**Personal Portfolio**](https://yourportfolio.com) - View my projects and resume.
-*   [**Email**](mailto:youremail@example.com) - Send me a direct message.
+*   [**LinkedIn**](linkedin.com/in/fazalrahman-waqar-391064266) - Connect professionally and see my experience.
+*   [**Personal Portfolio**](https://) - View my projects and resume.
+*   [**Email**](mailto:fazalrahmanwaqar3@gmail.com) - Send me a direct message.
 
 ---
 
