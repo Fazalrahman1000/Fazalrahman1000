@@ -34,8 +34,8 @@ Passionate about **Machine Learning**, Python, and the modern JavaScript ecosyst
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django" /><br>
-  <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,postgres,git,github,docker,aws,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,express,python,django" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,docker,aws,linux,vscode" />
 </p>
 
 ---
