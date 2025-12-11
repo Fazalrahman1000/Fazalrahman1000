@@ -50,7 +50,7 @@ I'm an active contributor and always tracking my progress.
 
 Let's connect and build something great!
 
-*   [**LinkedIn**](linkedin.com/in/fazalrahman-waqar-391064266) - Connect professionally and see my experience.
+*   [**LinkedIn**](linkedin.com/in/fazalrahman-waqar) - Connect professionally and see my experience.
 *   [**Personal Portfolio**](https://) - View my projects and resume.
 *   [**Email**](mailto:fazalrahmanwaqar3@gmail.com) - Send me a direct message.
 
