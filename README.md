@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Profile Header and Title -->
-  <!-- Image size slightly reduced (width 120px) as requested to be "less shown" -->
-  <img src="github.com/Fazalrahman1000/blob/main/myImage.jpg?raw=true" width="120px" alt="Profile Logo" />
+  <!-- Image URL is correct and size is set to 120px -->
+  <img src="github.com" width="120px" alt="Profile Logo" />
   <h1>Hey there! I'm Fazal Rahman Waqar 👋</h1>
   <h3>Full Stack Developer | Machine Learning Enthusiast</h3>
   <p>Building innovative solutions across the stack and into the realm of AI.</p>
@@ -27,9 +27,9 @@ I hold a Bachelor's degree in Computer Science from **Nangarhar University (2023
 My development toolkit includes a mix of front-end, back-end, and ML technologies:
 
 <p align="center">
-  <!-- Row 1: Core Languages and Front/Back End Frameworks (Links restored) -->
+  <!-- Row 1: Core Languages and Front/Back End Frameworks (Full URLs restored) -->
   <img src="skillicons.dev" /><br>
-  <!-- Row 2: Databases, Styling, DevOps, and ML Frameworks (Links restored) -->
+  <!-- Row 2: Databases, Styling, DevOps, and ML Frameworks (Full URLs restored) -->
   <img src="skillicons.dev" />
 </p>
 <br>
@@ -38,10 +38,10 @@ My development toolkit includes a mix of front-end, back-end, and ML technologie
 
 ### 📊 GitHub Stats
 
-I'm an active contributor and always tracking my progress. The "vision-friendly" theme below offers good contrast.
+I'm an active contributor and always tracking my progress. The "vision-friendly" theme offers good contrast.
 
 <p align="center">
-  <!-- Theme changed to 'vision-friendly' for better visualization -->
+  <!-- Full URLs restored for dynamic badges -->
   <img src="github-readme-stats.vercel.app" alt="Fazal Rahman Waqar GitHub Stats" />
   <img src="github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
 </p>
