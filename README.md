@@ -42,7 +42,6 @@ Passionate about **Machine Learning**, Python, and the modern JavaScript ecosyst
 <p align="center">
 
   <!-- GitHub Stats (Working Mirror) -->
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight" />
 
   <!-- GitHub Streak (Stable Mirror) -->
   <img height="180" src="https://streak-stats.demolab.com?user=Fazalrahman1000&theme=tokyonight" />
