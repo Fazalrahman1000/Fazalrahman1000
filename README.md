@@ -23,19 +23,16 @@
 ---
 
 ### 👨‍💻 About Me
-
 I'm a dedicated **Full Stack Developer** with strong experience in building dynamic, scalable, and responsive applications.  
 Passionate about **Machine Learning**, Python, and the modern JavaScript ecosystem.
 
 🎓 **Education:** Bachelor of Computer Science — *Nangarhar University (2023)*  
 💡 **Focus Areas:** React, Next.js, Django, Machine Learning, Cloud Services  
 🤝 Open to collaboration on innovative open-source projects  
-📬 Contact me through LinkedIn or Email above  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django" /><br>
   <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,postgres,git,github,docker,aws,linux,vscode" />
