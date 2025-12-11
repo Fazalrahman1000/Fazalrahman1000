@@ -1,59 +1,84 @@
+<!-- ✨ Profile Banner Image (Replace anytime you want) -->
+<p align="center">
+  <img src="https://i.imgur.com/x0RZbZB.png" width="100%" alt="Profile Banner"/>
+</p>
+
 <div align="center">
 
-  <h1>Hey there! I'm Fazal Rahman Waqar 👋</h1>
+  <h1>Hey there! I'm <span style="color:#6C63FF;">Fazal Rahman Waqar</span> 👋</h1>
   <h3>Full Stack Developer | Machine Learning Enthusiast</h3>
-  <p>Building innovative solutions across the stack and into the realm of AI.</p>
+
+  <p>Building innovative solutions across the stack — and pushing into the world of intelligent systems.</p>
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/fazalrahman-waqar-391064266/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:fazalrahmanwaqar3@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 **About Me**
 
-I am a passionate **Full Stack Developer** with a strong foundation in building dynamic and responsive web applications. I have a keen interest in **Machine Learning**, leveraging data and algorithms to create smarter software solutions.
+I’m a passionate **Full Stack Developer** with a strong foundation in crafting dynamic, responsive applications.  
+I love working with **JavaScript, Python, and Machine Learning tech**, turning ideas into actual working systems.
 
-I hold a Bachelor's degree in Computer Science from **Nangarhar University (2023)**. I am a continuous learner, dedicated to staying current with emerging technologies and contributing to impactful projects.
+🎓 **Education:** Bachelor of Computer Science — *Nangarhar University (2023)*  
+💡 **Focus Areas:**  
+- React, Next.js  
+- Node.js, Django  
+- Machine Learning (Python, Scikit-learn, TensorFlow, NLP)  
+- Cloud & DevOps (AWS, Docker)
 
-*   🎓 **Education:** Bachelor of Computer Science, Nangarhar University (2023).
-*   💡 **Focus Areas:** JavaScript Ecosystem (React, Next.js), Python (Django, ML libraries), Cloud Services (AWS, Docker).
-*   🤝 **Collaboration:** Always interested in collaborating on challenging open-source projects.
-*   📧 **Contact:** Feel free to reach out via [Email](mailto:fazalrahmanwaqar3@gmail.com) or [LinkedIn](linkedin.com).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-My development toolkit includes a mix of front-end, back-end, and ML technologies:
-
-<p align="center">
-  <!-- Row 1: Core Languages and Front/Back End Frameworks (Full URLs restored) -->
-  <img src="skillicons.dev" /><br>
-  <!-- Row 2: Databases, Styling, DevOps, and ML Frameworks (Full URLs restored) -->
-  <img src="skillicons.dev" />
-</p>
-<br>
+🤝 I love collaborating on impactful open-source projects.  
+📧 Contact me: **fazalrahmanwaqar3@gmail.com**
 
 ---
 
-### 📊 GitHub Stats
-
-I'm an active contributor and always tracking my progress. The "vision-friendly" theme offers good contrast.
+### 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-  <!-- Full URLs restored for dynamic badges -->
-  <img src="github-readme-stats.vercel.app" alt="Fazal Rahman Waqar GitHub Stats" />
-  <img src="github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,redux" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,java,mongodb,mysql,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,figma,vscode" />
 </p>
 
 ---
 
-### 📞 Connect With Me
+### 📊 **GitHub Stats**
 
-Let's connect and build something great!
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-*   [**LinkedIn**](linkedin.com) - Connect professionally and see my experience.
-*   [**Personal Portfolio**](https://yourportfolio.com) - View my projects and resume. (Update this link when you have a portfolio site!)
-*   [**Email**](mailto:fazalrahmanwaqar3@gmail.com) - Send me a direct message.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
+</p>
 
 ---
 
-⭐️ Crafted with ❤️ by [Fazal Rahman Waqar](github.com)
+### 📞 **Connect With Me**
+
+Let’s connect and build something amazing!
+
+- 🔗 **LinkedIn:**  
+  https://www.linkedin.com/in/fazalrahman-waqar-391064266/
+
+- 🌐 **Portfolio Website:**  
+  *(Add your link when ready)*
+
+- 📩 **Email:**  
+  fazalrahmanwaqar3@gmail.com
+
+---
+
+<p align="center">
+  ⭐️ Crafted with ❤️ by <a href="https://github.com/YOUR_GITHUB_USERNAME">Fazal Rahman Waqar</a>
+</p>
