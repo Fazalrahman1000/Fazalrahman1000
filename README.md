@@ -1,7 +1,5 @@
 <div align="center">
-  <!-- Profile Header and Title -->
-  <!-- Image URL is correct and size is set to 120px -->
-  <img src="github.com" width="120px" alt="Profile Logo" />
+
   <h1>Hey there! I'm Fazal Rahman Waqar 👋</h1>
   <h3>Full Stack Developer | Machine Learning Enthusiast</h3>
   <p>Building innovative solutions across the stack and into the realm of AI.</p>
