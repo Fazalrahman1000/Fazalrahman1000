@@ -1,74 +1,75 @@
 <div align="center">
 
-# Fazal Rahman Waqar
+```
+███████╗ █████╗ ███████╗ █████╗ ██╗
+██╔════╝██╔══██╗╚════██║██╔══██╗██║
+█████╗  ███████║   ██╔╝ ███████║██║
+██╔══╝  ██╔══██║  ██╔╝  ██╔══██║██║
+██║     ██║  ██║ ██║    ██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═╝    ╚═╝  ╚═╝╚══════╝
+```
+
+# Hi, I'm Fazal Rahman Waqar 👋
 
 ### Full Stack Developer | Desktop Application Developer
 
-Building scalable web applications and professional desktop software using modern technologies.
+I enjoy building web applications, APIs, and desktop software.
+I mainly work with **C#, Python, and JavaScript** to create clean,
+practical, and user-friendly applications.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/fazalrahman-waqar-391064266/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:fazalrahmanwaqar3@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Fazalrahman1000&style=for-the-badge&color=6366f1"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fazalrahman-waqar-391064266/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:fazalrahmanwaqar3@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Fazalrahman1000&style=flat-square)](https://github.com/Fazalrahman1000)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```csharp
-public class Developer
-{
-    public string Name = "Fazal Rahman Waqar";
+```python
+class FazalRahman:
 
-    public string Education =
-        "B.Sc. Computer Science - Nangarhar University";
+    def __init__(self):
+        self.name = "Fazal Rahman Waqar"
+        self.role = "Full Stack Developer"
 
-    public string Role =
-        "Full Stack Developer";
+        self.languages = [
+            "C#",
+            "Python",
+            "JavaScript"
+        ]
 
-    public string[] Expertise =
-    {
-        "Web Application Development",
-        "Desktop Application Development",
-        "Backend API Development",
-        "Software Architecture"
-    };
+        self.interests = [
+            "Web Development",
+            "Desktop Applications",
+            "Software Engineering"
+        ]
 
-    public bool AvailableForCollaboration = true;
-}
+        self.current_status = "Always learning 🚀"
+
+
+    def daily_goal(self):
+        return "Build better software every day"
 ```
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ My Tech Stack
 
-## Programming Languages
+### 💻 Programming Languages
 
-<div>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-# 🌐 Web Development
+## 🌐 Web Development
 
-## Frontend
+### Frontend
 
 ```
 HTML5
@@ -77,34 +78,23 @@ JavaScript
 React
 ```
 
-## Backend
+### Backend
 
 ```
 Django
 ASP.NET Core
-REST API Development
-Database Integration
+REST APIs
 ```
 
-<div>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
-
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet)
 
 ---
 
-# 🖥️ Desktop Application Development
+## 🖥️ Desktop Development
 
-Experienced in building professional desktop software:
+I also enjoy creating desktop applications with:
 
 ```
 C# Windows Forms
@@ -112,160 +102,138 @@ PyQt6
 PySide6
 ```
 
-Technologies:
+My focus:
 
-<div>
-
-![Windows Forms](https://img.shields.io/badge/C%23_Windows_Forms-239120?style=for-the-badge&logo=windows)
-
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt)
-
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt)
-
-</div>
+- Simple and clean user interfaces
+- Reliable desktop tools
+- Maintainable application structure
 
 ---
 
-# 🚀 Development Workflow
+# 🚀 What I Usually Build
 
-```text
-01. Analyze Requirements
-        |
-        v
-02. Design Application Architecture
-        |
-        v
-03. Develop Backend Services
-        |
-        v
-04. Build Responsive Interfaces
-        |
-        v
-05. Testing & Optimization
-        |
-        v
-06. Deployment & Maintenance
+```
+🌐 Web Applications
+
+   React + Django
+   React + ASP.NET Core
+
+
+🔌 Backend Services
+
+   REST APIs
+   Business Logic
+   Database Applications
+
+
+🖥 Desktop Software
+
+   C# Windows Forms
+   PyQt6 Applications
+   PySide6 Tools
 ```
 
 ---
 
-# 📌 Current Focus
+# 📅 My Daily Development Routine
+
+```text
+☕ Start Day
+
+   ↓
+
+📖 Learn something new
+
+   ↓
+
+💻 Write code
+
+   ↓
+
+🐛 Debug & improve
+
+   ↓
+
+🔄 Refactor old code
+
+   ↓
+
+📌 Commit progress
+```
+
+---
+
+# 📌 Current Learning & Improving
 
 ```javascript
-const currentWork = {
+const goals = {
 
-    backend:
+    improve:
     [
-        "ASP.NET Core APIs",
-        "Django REST Applications"
+        "Clean Code",
+        "Software Architecture",
+        "Better UI Design"
     ],
 
-    frontend:
+    build:
     [
-        "React Applications",
-        "Modern UI Development"
-    ],
-
-    desktop:
-    [
-        "C# Windows Applications",
-        "PyQt6 / PySide6 Software"
-    ],
-
-    improvement:
-    [
-        "Clean Architecture",
-        "Software Engineering Practices"
+        "Full Stack Applications",
+        "Desktop Software",
+        "Useful Developer Tools"
     ]
-};
+}
 ```
 
 ---
 
-# 📊 Daily Development Monitoring
+# 📂 Featured Projects
+
+| Project | Technology | Purpose |
+|---|---|---|
+| Web Applications | React + Django | Modern full-stack solutions |
+| API Systems | ASP.NET Core | Fast and reliable services |
+| Desktop Apps | C# WinForms | Windows business applications |
+| Python Tools | PyQt6 / PySide6 | Cross-platform utilities |
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-| Activity | Status |
-|---|---|
-| Writing Clean Code | 🟢 Daily |
-| Learning New Concepts | 🟢 Daily |
-| Backend Development | 🟢 Active |
-| Frontend Improvements | 🟢 Active |
-| Desktop Software Development | 🟢 Active |
-| Code Review & Optimization | 🟢 Regular |
-
-</div>
-
-
----
-
-# 📅 Developer Routine
-
-```text
-☑ Review existing code
-
-☑ Develop new features
-
-☑ Improve application performance
-
-☑ Refactor and maintain projects
-
-☑ Learn better engineering patterns
-
-☑ Commit meaningful changes
-```
-
----
-
-# 📂 Project Categories
-
-| Category | Technologies |
-|-|-|
-| Web Applications | Django, React, ASP.NET Core |
-| REST APIs | Django REST Framework, ASP.NET Core API |
-| Business Applications | C# Windows Forms |
-| Desktop Tools | PyQt6, PySide6 |
-| Frontend Interfaces | HTML, CSS, JavaScript, React |
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170"
+<img height="160"
 src="https://github-readme-stats.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170"
+<img height="160"
 src="https://github-readme-streak-stats.herokuapp.com/?user=Fazalrahman1000&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+
 ---
 
-# 📌 Engineering Principles
+# 🌱 Developer Mindset
 
-```text
-✔ Write maintainable code
+> "Small improvements every day create great software."
 
-✔ Build scalable solutions
+I believe in:
 
-✔ Prefer clean architecture
-
-✔ Focus on user experience
-
-✔ Continuously improve skills
+```
+✓ Writing readable code
+✓ Learning continuously
+✓ Building useful applications
+✓ Helping other developers
+✓ Improving one step at a time
 ```
 
 ---
 
 <div align="center">
 
-## "Great software is built through consistency, discipline, and continuous improvement."
+Thanks for visiting my profile! 😊
 
-<br/>
+Feel free to explore my repositories and connect with me.
 
-### © 2026 Fazal Rahman Waqar
+**Happy Coding 🚀**
 
 </div>
