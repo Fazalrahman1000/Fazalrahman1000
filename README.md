@@ -1,130 +1,271 @@
 <div align="center">
 
-```
-███████╗ █████╗ ███████╗ █████╗ ██╗
-██╔════╝██╔══██╗╚════██║██╔══██╗██║
-█████╗  ███████║    ██╔╝███████║██║
-██╔══╝  ██╔══██║   ██╔╝ ██╔══██║██║
-██║     ██║  ██║   ██║  ██║  ██║███████╗
-╚═╝     ╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝╚══════╝
-```
-
 # Fazal Rahman Waqar
 
-**Full Stack Developer · AI & Computer Vision Engineer**
+### Full Stack Developer | Desktop Application Developer
 
-*Building intelligent systems where modern web meets machine perception*
+Building scalable web applications and professional desktop software using modern technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazalrahman-waqar-391064266/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fazalrahmanwaqar3@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Fazalrahman1000&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/Fazalrahman1000)
+<br/>
 
-</div>
+<a href="https://www.linkedin.com/in/fazalrahman-waqar-391064266/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:fazalrahmanwaqar3@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-## `> whoami`
-
-```python
-class FazalRahmanWaqar:
-    def __init__(self):
-        self.name       = "Fazal Rahman Waqar"
-        self.education  = "B.Sc. Computer Science — Nangarhar University (2023)"
-        self.focus      = ["AI & Deep Learning", "Computer Vision", "Full Stack Dev"]
-        self.os         = ["Ubuntu", "Kali Linux", "Windows 10/11"]
-        self.available  = True  # Open to collaboration
-
-    def current_work(self):
-        return {
-            "ai":       "YOLO-based object detection pipelines",
-            "backend":  "Django REST APIs & ASP.NET Core services",
-            "frontend": "React single-page applications",
-            "desktop":  "PyQt cross-platform GUI tools",
-        }
-```
-
----
-
-## `> tech_stack --list`
-
-### 🧠 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8%2F11-FF6F00?style=flat-square&logo=yolo&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-### 🌐 Web — Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-### 🎨 Web — Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### 🖥️ Systems & Platforms
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%2010%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)
-
----
-
-## `> git log --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=Fazalrahman1000&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=ff6b6b&currStreakLabel=6366f1" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazalrahman1000&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ff6b6b&area=true&area_color=6366f1" />
+<img src="https://komarev.com/ghpvc/?username=Fazalrahman1000&style=for-the-badge&color=6366f1"/>
 
 </div>
 
 ---
 
-## `> ls projects/`
+# 👨‍💻 About Me
 
-| Project | Stack | Description |
-|---|---|---|
-| 🔍 Computer Vision Pipeline | Python · YOLOv8/11 · OpenCV | Real-time object detection & tracking |
-| 🌐 Django REST Platform | Python · Django · React | Scalable full-stack web application |
-| 🖥️ Desktop AI Tool | Python · PyQt · Deep Learning | Cross-platform GUI with embedded ML |
-| ⚙️ .NET Core API | C# · ASP.NET Core | High-performance backend microservice |
+```csharp
+public class Developer
+{
+    public string Name = "Fazal Rahman Waqar";
+
+    public string Education =
+        "B.Sc. Computer Science - Nangarhar University";
+
+    public string Role =
+        "Full Stack Developer";
+
+    public string[] Expertise =
+    {
+        "Web Application Development",
+        "Desktop Application Development",
+        "Backend API Development",
+        "Software Architecture"
+    };
+
+    public bool AvailableForCollaboration = true;
+}
+```
 
 ---
 
-## `> top -n1 --domains`
+# 🛠️ Technology Stack
+
+## Programming Languages
+
+<div>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+
+---
+
+# 🌐 Web Development
+
+## Frontend
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  SPECIALIZATIONS                          LEVEL      ║
-╠══════════════════════════════════════════════════════╣
-║  Computer Vision  (YOLO · OpenCV)         ████████░  ║
-║  Deep Learning / AI                       ███████░░  ║
-║  Python / Django                          █████████  ║
-║  C# / ASP.NET Core                        ███████░░  ║
-║  React / JS Frontend                      ████████░  ║
-║  Linux Systems (Ubuntu · Kali)            ████████░  ║
-╚══════════════════════════════════════════════════════╝
+HTML5
+CSS3
+JavaScript
+React
+```
+
+## Backend
+
+```
+Django
+ASP.NET Core
+REST API Development
+Database Integration
+```
+
+<div>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+
+</div>
+
+---
+
+# 🖥️ Desktop Application Development
+
+Experienced in building professional desktop software:
+
+```
+C# Windows Forms
+PyQt6
+PySide6
+```
+
+Technologies:
+
+<div>
+
+![Windows Forms](https://img.shields.io/badge/C%23_Windows_Forms-239120?style=for-the-badge&logo=windows)
+
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt)
+
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt)
+
+</div>
+
+---
+
+# 🚀 Development Workflow
+
+```text
+01. Analyze Requirements
+        |
+        v
+02. Design Application Architecture
+        |
+        v
+03. Develop Backend Services
+        |
+        v
+04. Build Responsive Interfaces
+        |
+        v
+05. Testing & Optimization
+        |
+        v
+06. Deployment & Maintenance
+```
+
+---
+
+# 📌 Current Focus
+
+```javascript
+const currentWork = {
+
+    backend:
+    [
+        "ASP.NET Core APIs",
+        "Django REST Applications"
+    ],
+
+    frontend:
+    [
+        "React Applications",
+        "Modern UI Development"
+    ],
+
+    desktop:
+    [
+        "C# Windows Applications",
+        "PyQt6 / PySide6 Software"
+    ],
+
+    improvement:
+    [
+        "Clean Architecture",
+        "Software Engineering Practices"
+    ]
+};
+```
+
+---
+
+# 📊 Daily Development Monitoring
+
+<div align="center">
+
+| Activity | Status |
+|---|---|
+| Writing Clean Code | 🟢 Daily |
+| Learning New Concepts | 🟢 Daily |
+| Backend Development | 🟢 Active |
+| Frontend Improvements | 🟢 Active |
+| Desktop Software Development | 🟢 Active |
+| Code Review & Optimization | 🟢 Regular |
+
+</div>
+
+
+---
+
+# 📅 Developer Routine
+
+```text
+☑ Review existing code
+
+☑ Develop new features
+
+☑ Improve application performance
+
+☑ Refactor and maintain projects
+
+☑ Learn better engineering patterns
+
+☑ Commit meaningful changes
+```
+
+---
+
+# 📂 Project Categories
+
+| Category | Technologies |
+|-|-|
+| Web Applications | Django, React, ASP.NET Core |
+| REST APIs | Django REST Framework, ASP.NET Core API |
+| Business Applications | C# Windows Forms |
+| Desktop Tools | PyQt6, PySide6 |
+| Frontend Interfaces | HTML, CSS, JavaScript, React |
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Fazalrahman1000&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Engineering Principles
+
+```text
+✔ Write maintainable code
+
+✔ Build scalable solutions
+
+✔ Prefer clean architecture
+
+✔ Focus on user experience
+
+✔ Continuously improve skills
 ```
 
 ---
 
 <div align="center">
 
-*"Any sufficiently advanced technology is indistinguishable from magic."*
+## "Great software is built through consistency, discipline, and continuous improvement."
 
-**— Arthur C. Clarke**
+<br/>
 
----
-
-`© 2024 Fazal Rahman Waqar` · Built with precision, deployed with purpose
+### © 2026 Fazal Rahman Waqar
 
 </div>
