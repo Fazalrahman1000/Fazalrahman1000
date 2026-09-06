@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./myImage.jpg" width="140" style="border-radius: 50%;" alt="Fazal Rahman Waqar" />
+
 # Fazal Rahman Waqar
 
 ### Full Stack Developer
@@ -14,18 +16,52 @@ Building reliable web platforms and desktop applications across the .NET, Python
 
 <br>
 
+<div align="center">
+
+╭─────────────────────────────────────────────────────────────╮
+
+**"Clean code, dependable systems, and software that just works."**
+
+╰─────────────────────────────────────────────────────────────╯
+
+</div>
+
+<br>
+
 ## About Me
 
-I'm a full stack developer with a B.Sc. in Computer Science from Nangarhar University (2023). I build web applications with Django and ASP.NET Core, desktop software with C# Windows Forms and Qt, and interactive frontends with React. I care about clean architecture, maintainable code, and shipping things that actually work in production.
+I'm a full stack developer with a B.Sc. in Computer Science from Nangarhar University (2023). I design and build web applications with Django and ASP.NET Core, desktop software with C# Windows Forms and Qt, and interactive frontends with React. My focus is clean architecture, maintainable code, and shipping software that performs reliably in production.
 
-- 🎯 Currently focused on: Django REST APIs, ASP.NET Core services, and desktop tooling with PySide6/PyQt6
-- 🌱 Actively strengthening: system design and API architecture
-- 💬 Open to: full stack roles, freelance projects, and collaboration
-- 📫 Reach me: [fazalrahmanwaqar3@gmail.com](mailto:fazalrahmanwaqar3@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Currently working on**
+Django REST APIs, ASP.NET Core services, and desktop tooling with PySide6/PyQt6
+
+**Strengthening**
+System design and scalable API architecture
+
+</td>
+<td width="50%" valign="top">
+
+**Open to**
+Full stack roles, freelance projects, and collaboration
+
+**Contact**
+[fazalrahmanwaqar3@gmail.com](mailto:fazalrahmanwaqar3@gmail.com)
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Languages**
 
@@ -33,20 +69,29 @@ I'm a full stack developer with a B.Sc. in Computer Science from Nangarhar Unive
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+</td>
+<td valign="top" width="33%">
+
 **Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
 **Desktop Development**
 
-![C#](https://img.shields.io/badge/Windows%20Forms-0C54C2?style=flat-square&logo=windows&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0C54C2?style=flat-square&logo=windows&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -69,16 +114,16 @@ I'm a full stack developer with a B.Sc. in Computer Science from Nangarhar Unive
 
 ## Daily Work Monitoring
 
-This profile tracks daily development activity automatically. A scheduled GitHub Action runs every day, pulls that day's commit and repo activity, and appends it to [`WORKLOG.md`](./WORKLOG.md) — so this section always reflects real, current work rather than a static snapshot.
+This profile tracks daily development activity automatically. A scheduled GitHub Action runs every day, pulls that day's commit activity, and appends it to [`WORKLOG.md`](./WORKLOG.md) — so this always reflects real, current work rather than a static snapshot.
 
 | | |
 |---|---|
 | **Log file** | [`WORKLOG.md`](./WORKLOG.md) |
-| **Update schedule** | Daily at 23:00 UTC (via `.github/workflows/daily-log.yml`) |
+| **Update schedule** | Daily at 23:00 UTC |
+| **Automation** | [`.github/workflows/daily-log.yml`](./.github/workflows/daily-log.yml) |
 | **What it tracks** | Commits made that day, repos touched, and total commit count |
-| **Setup required** | A personal access token stored as the `WORKLOG_TOKEN` secret (see comments in the workflow file) |
 
-<sub>Latest entries are always at the top of the log — no manual updates needed once the workflow is enabled.</sub>
+<sub>Newest entries are always at the top of the log — nothing needs to be updated by hand.</sub>
 
 <br>
 
