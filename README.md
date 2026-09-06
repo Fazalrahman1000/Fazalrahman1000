@@ -1,120 +1,96 @@
 <div align="center">
 
-<img src="./myImage.jpg" width="140" style="border-radius: 50%;" alt="Fazal Rahman Waqar" />
+<img src="./assets/banner.svg" width="100%" alt="Fazal Rahman Waqar - Full Stack Web Developer & AI Engineer" />
 
-# Fazal Rahman Waqar
+<br><br>
 
-### Full Stack Developer
-
-Building reliable web platforms and desktop applications across the .NET, Python, and JavaScript ecosystems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazalrahman-waqar-391064266/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalrahmanwaqar3@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Fazalrahman1000&style=for-the-badge&color=2b3137&label=Profile+Views)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazalrahman-waqar-391064266/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalrahmanwaqar3@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Fazalrahman1000&style=for-the-badge&color=6366f1&label=Profile+Views)
 
 </div>
 
 <br>
+
+## About Me 👋
+
+- 🎓 B.Sc. Computer Science — Nangarhar University (2023)
+- 💻 Full Stack Web Developer — Django, ASP.NET Core, React
+- 🧠 AI Engineer — Deep Learning & Computer Vision
+- 🖥️ Also build desktop apps with C# Windows Forms, PyQt6 & PySide6
+- 🌱 Currently sharpening system design & scalable API architecture
+- 🤝 Open to full stack roles, freelance work, and collaboration
+- 📫 Reach me at **[fazalrahmanwaqar3@gmail.com](mailto:fazalrahmanwaqar3@gmail.com)**
+
+<br>
+
+## Tech Stack 🛠️
 
 <div align="center">
-
-╭─────────────────────────────────────────────────────────────╮
-
-**"Clean code, dependable systems, and software that just works."**
-
-╰─────────────────────────────────────────────────────────────╯
-
-</div>
-
-<br>
-
-## About Me
-
-I'm a full stack developer with a B.Sc. in Computer Science from Nangarhar University (2023). I design and build web applications with Django and ASP.NET Core, desktop software with C# Windows Forms and Qt, and interactive frontends with React. My focus is clean architecture, maintainable code, and shipping software that performs reliably in production.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Currently working on**
-Django REST APIs, ASP.NET Core services, and desktop tooling with PySide6/PyQt6
-
-**Strengthening**
-System design and scalable API architecture
-
-</td>
-<td width="50%" valign="top">
-
-**Open to**
-Full stack roles, freelance projects, and collaboration
-
-**Contact**
-[fazalrahmanwaqar3@gmail.com](mailto:fazalrahmanwaqar3@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
 
 **Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
+<br>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Web Development**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
+**AI & Computer Vision**
+<br>
+![PyTorch](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8%2F11-FF6F00?style=for-the-badge)
 
 **Desktop Development**
-
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0C54C2?style=flat-square&logo=windows&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 <br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=Fazalrahman1000&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fazalrahman1000&hide_border=true&area=true" />
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 </div>
 
 <br>
 
-## Daily Work Monitoring
+## GitHub Stats 📊
 
-This profile tracks daily development activity automatically. A scheduled GitHub Action runs every day, pulls that day's commit activity, and appends it to [`WORKLOG.md`](./WORKLOG.md) — so this always reflects real, current work rather than a static snapshot.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=Fazalrahman1000&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fazalrahman1000&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+## Contribution Activity 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Fazalrahman1000/Fazalrahman1000/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+</div>
+
+<sub>This animation is generated by a GitHub Action in your own repo (see setup below), so it doesn't depend on any third-party server and won't go down.</sub>
+
+<br>
+
+## Daily Work Monitoring 📅
+
+This profile tracks daily development activity automatically. A scheduled GitHub Action runs every day, pulls that day's commit activity, and appends it to [`WORKLOG.md`](./WORKLOG.md).
 
 | | |
 |---|---|
@@ -123,18 +99,16 @@ This profile tracks daily development activity automatically. A scheduled GitHub
 | **Automation** | [`.github/workflows/daily-log.yml`](./.github/workflows/daily-log.yml) |
 | **What it tracks** | Commits made that day, repos touched, and total commit count |
 
-<sub>Newest entries are always at the top of the log — nothing needs to be updated by hand.</sub>
-
 <br>
 
-## Featured Projects
+## Featured Projects 🚀
 
 | Project | Stack | Description |
 |---|---|---|
-| Django REST Platform | Python, Django, React | Full stack web application with a REST API backend and React frontend |
+| Django REST Platform | Python, Django, React | Full stack web app with a REST API backend and React frontend |
 | ASP.NET Core Service | C#, ASP.NET Core | Backend microservice built on .NET Core |
-| Desktop Utility Suite | Python, PySide6/PyQt6 | Cross-platform desktop application with a native Qt interface |
-| Windows Forms Application | C# | Desktop tool built with .NET Windows Forms |
+| Computer Vision Pipeline | Python, OpenCV, YOLO | Real-time object detection and tracking |
+| Desktop Utility Suite | Python, PySide6/PyQt6 | Cross-platform desktop app with a native Qt interface |
 
 <br>
 
