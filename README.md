@@ -63,16 +63,25 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fazalrahman1000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=Fazalrahman1000&theme=tokyonight&hide_border=true" />
+<img width="45%" src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+<img width="45%" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
 
 </div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fazalrahman1000&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="./profile-summary-card-output/default/3-stats.svg" />
+<img width="45%" src="./profile-summary-card-output/default/4-productive-time.svg" />
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fazalrahman1000&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<sub>The four cards above are generated daily by a GitHub Action into your own repo (see setup below), so they load reliably instead of depending on a shared third-party server.</sub>
 
 <br>
 
@@ -98,6 +107,15 @@ This profile tracks daily development activity automatically. A scheduled GitHub
 | **Update schedule** | Daily at 23:00 UTC |
 | **Automation** | [`.github/workflows/daily-log.yml`](./.github/workflows/daily-log.yml) |
 | **What it tracks** | Commits made that day, repos touched, and total commit count |
+
+<br>
+
+## Setting Up the Self-Hosted Stats Cards ⚙️
+
+1. Add [`.github/workflows/summary-cards.yml`](./.github/workflows/summary-cards.yml) to your repo.
+2. Go to the **Actions** tab → select "Generate Profile Summary Cards" → click **Run workflow** once, manually.
+3. Once it finishes, a new folder called `profile-summary-card-output/` will appear in your repo, containing the SVG cards referenced above — pull the repo (or refresh the file browser) to see it.
+4. From then on, it re-generates automatically once a day, and the images in this README will always point at files that live in your own repo.
 
 <br>
 
